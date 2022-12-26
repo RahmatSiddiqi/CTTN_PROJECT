@@ -8,7 +8,7 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       appBar: buildAppBar(),
       body: const Center(
-        child: Text("rezakamprett"),
+        child: Text("halo rahmat"),
       ),
     );
   }

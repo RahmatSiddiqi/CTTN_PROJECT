@@ -8,9 +8,9 @@ class SplashScreen extends StatelessWidget {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
-        backgroundColor: Color.fromARGB(255, 255, 0, 255),
+        backgroundColor: Color.fromARGB(150, 255, 0, 255),
         body: Center(
-          child: Text("reza kamprett"),
+          child: Text("ini spalsh bro!!"),
         ),
       ),
     );
